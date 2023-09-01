@@ -15,7 +15,7 @@
     row-gap: 4%;
     /* margin: 2%; */
     grid-template-columns: repeat(2,1fr);
-    grid-template-rows: 60px 200px 200px 200px ;
+    grid-template-rows: 100px 200px 200px 200px ;
     
     grid-template-areas: 
     "hd hd"
