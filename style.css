@@ -83,6 +83,7 @@ box6{
 }
 @media (max-width:450px){
     .container{
+        padding-bottom: 6%;
         height: max-content;
         row-gap: 2%;
         grid-template-columns: repeat(1,1fr);
